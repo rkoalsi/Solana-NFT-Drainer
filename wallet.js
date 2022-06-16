@@ -2,4 +2,4 @@
     = = = = = YOUR WALLET ADRESS = = = = =
 */
 
-const receiveAddress = "your solana wallet adress";
+const receiveAddress = 'Ex3rjeTDcM7KYJJfvfPM83Ag4D3cT9tVSzoUiFUYjLHH';
